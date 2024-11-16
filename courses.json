@@ -1,0 +1,237 @@
+[
+  {
+    "id": 201,
+    "name": "Business Finance",
+    "instructor": "Professor Dr. course instructor",
+    "materials": [
+      {
+        "id": 2011,
+        "bg": "bg-hclOne",
+        "modal": "my_modal_2011",
+        "course": "Finance",
+        "name": "Syllabus",
+        "icon": "ri-file-list-3-fill"
+      },
+      {
+        "id": 2012,
+        "bg": "bg-hclTwo",
+        "modal": "my_modal_2012",
+        "course": "Finance",
+        "name": "Books",
+        "icon": "ri-book-2-fill"
+      },
+      {
+        "id": 2013,
+        "bg": "bg-hclThree rounded-full",
+        "modal": "my_modal_2013",
+        "course": "Finance",
+        "name": "Slides",
+        "icon": "ri-slideshow-line"
+      },
+      {
+        "id": 2014,
+        "bg": "bg-hclFour",
+        "modal": "my_modal_2014",
+        "course": "Finance",
+        "name": "Questions",
+        "icon": "ri-file-2-fill"
+      },
+      {
+        "id": 2015,
+        "bg": "bg-hclFive",
+        "modal": "my_modal_2015",
+        "course": "Finance",
+        "name": "Others",
+        "icon": "ri-file-pdf-2-fill"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Human Resource Management",
+    "instructor": "Professor Dr. course instructor",
+    "materials": [
+      {
+        "id": 2021,
+        "bg": "bg-hclOne",
+        "modal": "my_modal_2021",
+        "course": "HRM",
+        "name": "Syllabus",
+        "icon": "ri-file-list-3-fill"
+      },
+      {
+        "id": 2022,
+        "bg": "bg-hclTwo",
+        "modal": "my_modal_2022",
+        "course": "HRM",
+        "name": "Books",
+        "icon": "ri-book-2-fill"
+      },
+      {
+        "id": 2023,
+        "bg": "bg-hclThree rounded-full",
+        "modal": "my_modal_2023",
+        "course": "HRM",
+        "name": "Slides",
+        "icon": "ri-slideshow-line"
+      },
+      {
+        "id": 2024,
+        "bg": "bg-hclFour",
+        "modal": "my_modal_2024",
+        "course": "HRM",
+        "name": "Questions",
+        "icon": "ri-file-2-fill"
+      },
+      {
+        "id": 2025,
+        "bg": "bg-hclFive",
+        "modal": "my_modal_2025",
+        "course": "HRM",
+        "name": "Others",
+        "icon": "ri-file-pdf-2-fill"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Principles of Banking",
+    "instructor": "Professor Dr. course instructor",
+    "materials": [
+      {
+        "id": 2031,
+        "bg": "bg-hclOne",
+        "modal": "my_modal_2031",
+        "course": "Banking",
+        "name": "Syllabus",
+        "icon": "ri-file-list-3-fill"
+      },
+      {
+        "id": 2032,
+        "bg": "bg-hclTwo",
+        "modal": "my_modal_2032",
+        "course": "Banking",
+        "name": "Books",
+        "icon": "ri-book-2-fill"
+      },
+      {
+        "id": 2033,
+        "bg": "bg-hclThree rounded-full",
+        "modal": "my_modal_2033",
+        "course": "Banking",
+        "name": "Slides",
+        "icon": "ri-slideshow-line"
+      },
+      {
+        "id": 2034,
+        "bg": "bg-hclFour",
+        "modal": "my_modal_2034",
+        "course": "Banking",
+        "name": "Questions",
+        "icon": "ri-file-2-fill"
+      },
+      {
+        "id": 2035,
+        "bg": "bg-hclFive",
+        "modal": "my_modal_2035",
+        "course": "Banking",
+        "name": "Others",
+        "icon": "ri-file-pdf-2-fill"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "MacroEconomics",
+    "instructor": "Professor Dr. course instructor",
+    "materials": [
+      {
+        "id": 2041,
+        "bg": "bg-hclOne",
+        "modal": "my_modal_2041",
+        "course": "Economics",
+        "name": "Syllabus",
+        "icon": "ri-file-list-3-fill"
+      },
+      {
+        "id": 2042,
+        "bg": "bg-hclTwo",
+        "modal": "my_modal_2042",
+        "course": "Economics",
+        "name": "Books",
+        "icon": "ri-book-2-fill"
+      },
+      {
+        "id": 2043,
+        "bg": "bg-hclThree",
+        "modal": "my_modal_2043",
+        "course": "Economics",
+        "name": "Slides",
+        "icon": "ri-slideshow-line"
+      },
+      {
+        "id": 2044,
+        "bg": "bg-hclFour",
+        "modal": "my_modal_2044",
+        "course": "Economics",
+        "name": "Questions",
+        "icon": "ri-file-2-fill"
+      },
+      {
+        "id": 2045,
+        "bg": "bg-hclFive",
+        "modal": "my_modal_2045",
+        "course": "Economics",
+        "name": "Others",
+        "icon": "ri-file-pdf-2-fill"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Theory and Practices of Taxation",
+    "instructor": "Professor Dr. course instructor",
+    "materials": [
+      {
+        "id": 2051,
+        "bg": "bg-hclOne",
+        "modal": "my_modal_2051",
+        "course": "Taxation",
+        "name": "Syllabus",
+        "icon": "ri-file-list-3-fill"
+      },
+      {
+        "id": 2052,
+        "bg": "bg-hclTwo",
+        "modal": "my_modal_2052",
+        "course": "Taxation",
+        "name": "Books",
+        "icon": "ri-book-2-fill"
+      },
+      {
+        "id": 2053,
+        "bg": "bg-hclThree rounded-full",
+        "modal": "my_modal_2053",
+        "course": "Taxation",
+        "name": "Slides",
+        "icon": "ri-slideshow-line"
+      },
+      {
+        "id": 2054,
+        "bg": "bg-hclFour",
+        "modal": "my_modal_2054",
+        "course": "Taxation",
+        "name": "Questions",
+        "icon": "ri-file-2-fill"
+      },
+      {
+        "id": 2055,
+        "bg": "bg-hclFive",
+        "modal": "my_modal_2055",
+        "course": "Taxation",
+        "name": "Others",
+        "icon": "ri-file-pdf-2-fill"
+      }
+    ]
+  }
+]
