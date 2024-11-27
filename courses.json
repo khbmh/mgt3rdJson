@@ -2,7 +2,7 @@
   {
     "id": 201,
     "name": "Business Finance",
-    "instructor": "Professor Dr. course instructor",
+    "instructor": "Dr. Mohammad Mizanur Rahman Chy.",
     "materials": [
       {
         "id": 2011,
@@ -49,7 +49,7 @@
   {
     "id": 202,
     "name": "Human Resource Management",
-    "instructor": "Professor Dr. course instructor",
+    "instructor": "Prof. Dr. Zahurul Alam",
     "materials": [
       {
         "id": 2021,
@@ -96,7 +96,7 @@
   {
     "id": 203,
     "name": "Principles of Banking",
-    "instructor": "Professor Dr. course instructor",
+    "instructor": "Mrs. Dipa Das",
     "materials": [
       {
         "id": 2031,
@@ -143,7 +143,7 @@
   {
     "id": 204,
     "name": "MacroEconomics",
-    "instructor": "Professor Dr. course instructor",
+    "instructor": "Prof. Dr. Muhammad Sahab Uddin",
     "materials": [
       {
         "id": 2041,
@@ -190,7 +190,7 @@
   {
     "id": 205,
     "name": "Theory and Practices of Taxation",
-    "instructor": "Professor Dr. course instructor",
+    "instructor": "Mr. Tarik Raihan",
     "materials": [
       {
         "id": 2051,
